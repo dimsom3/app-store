@@ -5,11 +5,11 @@ import { SpaceConfig } from "../types";
 
 export const sismoConfigMain: SpaceConfig = {
   metadata: {
-    slug: "sismo",
+    slug: "Sismo",
     name: "Sismo",
     description:
       "This Space presents Sismo Apps, offering exclusive benefits for our contributors and community members. Prove your level and unlock access to the apps. Learn more about the Sismo Community and check your level: https://community.sismo.io.",
-    image: "space_sismo_pfp_400x400.png",
+    image: "ssspace_sismo_pfp_400x400.png",
     socialLinks: [
       {
         type: "link",
